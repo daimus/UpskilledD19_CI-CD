@@ -6,7 +6,11 @@ Adapun alur pekerjaan yang dilakukan github action digambarkan dalam diagram ber
 
 ![diagram.jpg](resources/diagram.jpg)
 
-## Demo
+## Docker Hub Repo
+
+[https://hub.docker.com/r/daimus/product-service](https://hub.docker.com/r/daimus/product-service)
+
+## Demo on AWS EC2
 
 [http://54.255.19.15](http://54.255.19.15)
 
